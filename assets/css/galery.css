@@ -1,6 +1,6 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: rgb(230, 72, 72);
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
