@@ -59,8 +59,8 @@
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
-    text-align: right;
+    background-color: rgb(43, 130, 211);
+    text-align: center;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
 /*Cambia el color de la letra del pie de pagina*/
