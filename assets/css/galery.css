@@ -1,72 +1,72 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: rgb(230, 72, 72);
+    background-color: rgb(78, 192, 50);
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(190, 55, 55);
 }
 /*Cambia el color de la letra del titulo*/
 .galery__link{
-    color: white;
+    color: rgb(212, 140, 30);
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    font-size: 18px;
+    font-family: "Oswald", Arial, Sans-Serif;
+    font-size: 36px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Oswald*/
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
 .galery__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: black;
-    font-size: 18px;
+    font-family: "Monserrat", Arial, Sans-Serif;
+    color: rgb(94, 248, 202);
+    font-size: 24px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria*/
 .galery__figure{
-    background-color: white;
+    background-color: rgb(152, 228, 121);
 }
 /*Cambia las dimensiones de las fotos de la galeria*/
 /*imagen1*/
 .galery__figure > img:nth-child(1){
-    width: 500px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
-    width: 300px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
-    width: 300px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen4*/
 .galery__figure > img:nth-child(4){
-    width: 500px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen5*/
 .galery__figure > img:nth-child(5){
-    width: 600px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
-    text-align: right;
+    background-color: rgb(43, 130, 211);
+    text-align: center;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
 /*Cambia el color de la letra del pie de pagina*/
 /*Cambia el tamaño de la letra del pie de pagina a 30px*/
 .paragraph__text{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    font-family: "Monserrat", Arial, Sans-Serif;
+    color: rgb(55, 12, 112);
+    font-size: 30px;
 }
