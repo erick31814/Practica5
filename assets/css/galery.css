@@ -43,8 +43,8 @@
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
-    width: 300px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen4*/
 .galery__figure > img:nth-child(4){
