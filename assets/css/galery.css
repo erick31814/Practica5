@@ -48,8 +48,8 @@
 }
 /*imagen4*/
 .galery__figure > img:nth-child(4){
-    width: 500px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen5*/
 .galery__figure > img:nth-child(5){
