@@ -33,8 +33,8 @@
 /*Cambia las dimensiones de las fotos de la galeria*/
 /*imagen1*/
 .galery__figure > img:nth-child(1){
-    width: 500px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
