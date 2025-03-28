@@ -4,7 +4,7 @@
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(190, 55, 55);
 }
 /*Cambia el color de la letra del titulo*/
 .galery__link{
