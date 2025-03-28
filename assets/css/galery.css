@@ -66,7 +66,7 @@
 /*Cambia el color de la letra del pie de pagina*/
 /*Cambia el tamaño de la letra del pie de pagina a 30px*/
 .paragraph__text{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    font-family: "Monserrat", Arial, Sans-Serif;
+    color: rgb(55, 12, 112);
+    font-size: 30px;
 }
