@@ -20,15 +20,15 @@
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
 .galery__issue{
-    font-family: "Oswald", Arial, Sans-Serif;
-    color: rgb(231, 214, 60);
+    font-family: "Monserrat", Arial, Sans-Serif;
+    color: rgb(94, 248, 202);
     font-size: 24px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria*/
 .galery__figure{
-    background-color: white;
+    background-color: rgb(152, 228, 121);
 }
 /*Cambia las dimensiones de las fotos de la galeria*/
 /*imagen1*/
