@@ -53,8 +53,8 @@
 }
 /*imagen5*/
 .galery__figure > img:nth-child(5){
-    width: 600px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
 }
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
